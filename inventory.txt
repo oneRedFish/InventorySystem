@@ -1,0 +1,14 @@
+m 10 hihi 90 18.0 111  -1
+
+p 111 haha 10 90.0 haha
+
+p 111 haha 10 1.0 haha
+
+m 290 huhu 909 0.2 111 -1
+
+m 90 hhh 90 0.2 111 -1
+
+p 111 hihi 10 20.0 haha
+
+p 111 haha 11 1.0 haha
+
